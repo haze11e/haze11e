@@ -75,10 +75,9 @@ const hazelle = {
 
 
 ## GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4285f4&text_color=ffffff&icon_color=4285f4&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&layout=compact&theme=radical&bg_color=0d1117&title_color=4285f4&text_color=ffffff&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&layout=compact&langs_count=10&include_all_commits=true&count_private=true&include_orgs=true&exclude_repo=&hide=html,css&theme=radical&bg_color=0d1117&title_color=4285f4&text_color=ffffff&border_color=30363d"/>
 </div>
 
 ## Let's Connect & Collaborate
