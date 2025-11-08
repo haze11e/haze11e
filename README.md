@@ -40,7 +40,6 @@ IT Graduate (2025) | Building my journey in tech through continuous learning and
   </table>
 </div>
 ---
-
 # 📊 My GitHub Stats
 
 <div align="center">
@@ -48,20 +47,27 @@ IT Graduate (2025) | Building my journey in tech through continuous learning and
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&count_private=true&include_all_commits=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats" 
+        alt="GitHub Stats" 
+        width="450" 
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&langs_count=20&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&layout=compact&hide=jupyter%20notebook,tex&card_width=320" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&layout=compact&langs_count=10&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=320" 
+        alt="Top Languages" 
+      />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haze11e&stroke=ffffff&background=1a1a1a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<br/>
 
-## 📊 Detailed Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&langs_count=20&layout=donut&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&hide=jupyter%20notebook,tex" alt="Language Distribution" />
-
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=haze11e&theme=dark&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ffffff&hide_border=true" 
+  alt="GitHub Streak" 
+/>
 
 </div>
 
