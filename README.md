@@ -41,27 +41,28 @@ IT Graduate (2025) | Building my journey in tech through continuous learning and
 </div>
 ---
 
-<b>My GitHub Stats</b>
+# 📊 My GitHub Stats
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="http://www.github.com/haze11e">
-          <img src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&show_icons=true&include_all_commits=true" alt="haze11e's GitHub stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/haze11e" align="left">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&langs_count=15&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&locale=en&custom_title=Top%20Languages&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,tex" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <a href="http://www.github.com/haze11e">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haze11e&stroke=ffffff&background=1a1a1a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&count_private=true&include_all_commits=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&langs_count=20&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&layout=compact&hide=jupyter%20notebook,tex&card_width=320" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haze11e&stroke=ffffff&background=1a1a1a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+
+## 📊 Detailed Language Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&langs_count=20&layout=donut&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1a1a1a&hide_border=true&hide=jupyter%20notebook,tex" alt="Language Distribution" />
+
+
 </div>
 
 ---
