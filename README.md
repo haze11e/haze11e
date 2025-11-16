@@ -8,6 +8,38 @@ IT Graduate (2025) | Building my journey in tech through continuous learning and
 </div>
 
 ---
+📊 My GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats" 
+        alt="GitHub Stats" 
+        width="450" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&layout=compact&langs_count=10&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=320" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=haze11e&theme=dark&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ffffff&hide_border=true" 
+  alt="GitHub Streak" 
+/>
+
+</div>
+
+---
 # Skills
 
 <div align="center">
@@ -40,36 +72,6 @@ IT Graduate (2025) | Building my journey in tech through continuous learning and
   </table>
 </div>
 ---
-# 📊 My GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=haze11e&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats" 
-        alt="GitHub Stats" 
-        width="450" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=haze11e&layout=compact&langs_count=10&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=320" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=haze11e&theme=dark&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ffffff&hide_border=true" 
-  alt="GitHub Streak" 
-/>
-
-</div>
 
 ---
 
